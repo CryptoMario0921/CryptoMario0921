@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <strong>John Lloyd Manlutac</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>John Lloyd Manlutac</strong></h1>
 <h3 align="center">Senior Software Engineer • Web Development • Blockchain • Programming</h3>
 <p align="center">
   <a href="https://johnmanlutac.github.io">🌐 Portfolio</a> •
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Tech Arsenal
+### 🛠 Tech Stack
 
 #### 💻 Backend & API
 Python (FastAPI, Flask, Django), Node.js (NestJS, Express), REST, GraphQL, WebSockets, gRPC, Microservices, PHP (Laravel Framework)
